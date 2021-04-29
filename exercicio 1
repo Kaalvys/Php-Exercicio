@@ -1,0 +1,2 @@
+-- 1) Qual o ID do pokemon Lucario?
+SELECT * FROM `pokedex` WHERE  nome='lucario'
